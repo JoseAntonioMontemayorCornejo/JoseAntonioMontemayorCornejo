@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jose Antonio Montemayor Cornejo
 
-<!--
-**JoseAntonioMontemayorCornejo/JoseAntonioMontemayorCornejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de **Ingeniería en Sistemas Computacionales** de 🇲🇽 **México**, apasionado por la tecnología y con muchas ganas de seguir aprendiendo cada día.  
 
-Here are some ideas to get you started:
+💡 Me gusta aprender sobre **cualquier cosa**, especialmente sobre desarrollo web y nuevas herramientas tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Actualmente
+- 💼 Trabajo: *pendiente*
+- 📚 Siempre aprendiendo cosas nuevas
+
+---
+
+### 🧠 Intereses
+- 🌐 Desarrollo web (HTML, CSS)
+- 💻 Programación en C#
+- 🤖 Tecnología y computación
+- ☕ Buen café mientras programo
+- 📷 Fotografía y creatividad
+
+---
+
+### 📫 Contáctame
+- 📸 [Instagram](https://www.instagram.com/darka18204/)
+
+---
+
+### 🛠️ Tecnologías favoritas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+---
+
+⭐ Gracias por visitar mi perfil.  
+Siempre abierto a aprender y compartir conocimiento 🚀
